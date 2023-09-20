@@ -2,7 +2,7 @@
 
 ![image](https://github.com/cheshta0112/shopping-cart-Context-api/assets/104692214/0580eec3-10d8-424f-a241-e65055ff0312)
 
-![image](https://github.com/cheshta0112/shopping-cart-Context-api/assets/104692214/3dc635dc-8158-45ed-a514-2e711364b8bc)
+
 
 
 
